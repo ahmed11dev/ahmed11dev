@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ahmed ali
-- 👀 I’m interested in web development using .net & angular
+- 👀 I’m interested in web development using php laravel & next js
 - 🌱 I’m currently learning more about web development
 - 📫 How to reach me ...
   - ahmed11dev@gmail.com
